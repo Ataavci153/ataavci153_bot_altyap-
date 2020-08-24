@@ -22,8 +22,8 @@ const embed = new Discord.RichEmbed()
 //.addField('» reboot : Botu yeniden başlatır. (Tehlikeli).
 //.addField('» reklam-taraması : Kullanıcıların isimlerinde veya durumlarında reklam içeren kelimeler var mı, yok mu tarar.
 //.addField('» youtube : Yazdığınız bir YouTube kanalının linkini hem özelden, hemde sunucuda atar.
-//.addField('» sunucuanıt : Sunucunuzu bu botun destek sunucusundaki sunucu-tanıtına atar sunucunuzu. (Bakımda.)
-//.addField('» sunubilgi : Sunucu hakkında bilgi verir.
+//.addField('» sunucuanıt : Sunucunuzu bu botun destek sunucusundaki sunucu-tanıt kanalına atar sunucunuzu. (Bakımda.)
+//.addField('» sunubilgi : Sunucu hakkında bilgi verir. (Bakımda.)
 //.addField('» yaz : Bota istediğin şeyi yazdırtabilir.
 //.addField('» bulanık : Avatarını bulanık bir şekilde gösterir.
 //.addField('» wasted : Wasdetlenirsiniz.
